@@ -1,0 +1,3 @@
+input: flatten (dim 1x1024) 2PCA connData from connData_dimReduc/results/PCA_v3/connData_dimReduc_PCA_dict_v3.pkl,
+output: DSM_Anxi_T original value or binary classification (0:==50;1:>50),
+model: deep fully connected network
