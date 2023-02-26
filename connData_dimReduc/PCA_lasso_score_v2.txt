@@ -1,0 +1,32 @@
+****************************new_featDim = 25:
+
+NOT work!!!!!!!
+
+max testing score: -0.01395458017558715
+corresponding penalty: 1
+number of features used: 0
+---train---
+baseline training accuracy = 0.5585331452750353
+training accuracy = 0.5585331452750353
+training score: 0.0
+---test---
+baseline accuracy = 0.5849673202614379
+testing accuracy = 0.5849673202614379
+testing score: -0.002878177820651917
+
+
+****************************new_featDim = 50:
+
+NOT work!!!!!!!
+
+max testing score: -0.015321821488415877
+corresponding penalty: 1
+number of features used: 0
+---train---
+baseline training accuracy = 0.5585331452750353
+training accuracy = 0.5585331452750353
+training score: 0.0
+---test---
+baseline accuracy = 0.5849673202614379
+testing accuracy = 0.5849673202614379
+testing score: -0.002878177820651917
